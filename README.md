@@ -10,7 +10,6 @@ Demonstrates object-oriented programming, inheritance, interfaces, enums, sortin
 - Sort documents by creation date, author, and type (Report before Article)
 - Group and count documents by author and by type
 - Find the most recent document by a given author
-- All functionality implemented without external libraries
 
 ## Technologies
 
